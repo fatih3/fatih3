@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatih3" alt="fatih3" /></a> </p>
 
-- 🔭 I’m currently working on **restaurant project**
+- 🔭 I’m currently working on **Restaurant project**
 
-- 💬 Ask me about **Javascript ,react native**
+- 💬 Ask me about **Javascript ,React native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
