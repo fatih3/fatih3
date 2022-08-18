@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Restaurant project**
 
-- 💬 Ask me about **Javascript ,React native **
+- 💬 Ask me about **Javascript , React ,React native **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
