@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatih3" alt="fatih3" /></a> </p>
 
-- 🔭 I’m currently working on *Todo-app in javascript*
+- 🔭 I’m currently working on *Tracking app system in javascript*
 
 - 💬 Ask me about **Javascript , React ,React native **
 
